@@ -1,7 +1,13 @@
-# Sunday kelani — MIT 8103
+# Cooperative and Loan Services
 
-Student ID: 301918258
+Sunday kelani · Student ID 301918258
 
-Pricing & Market Entry
+The portfolio uses fictional records for Cooperative and Loan Services.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](kelani_Sunday_301918258_FinalSummary.md) · [PDF](kelani_Sunday_301918258_FinalSummary.pdf)
